@@ -1,4 +1,4 @@
-# NYCU Visual Recognition HW2 - Digit Detection
+# NYCU Visual Recognition HW2
 
 ## Introduction
 
