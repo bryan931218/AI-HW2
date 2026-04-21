@@ -58,3 +58,4 @@ python predict.py --checkpoint ./outputs/<timestamp>/best.pth --zip
 ```
 
 ## Performance Snapshot
+<img width="2558" height="1324" alt="Screenshot from 2026-04-21 18-18-05" src="https://github.com/user-attachments/assets/03501262-8dd1-48d9-8d65-9b578173e193" />
